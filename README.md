@@ -72,8 +72,8 @@ Confluent Cloud manages the JDBC driver internally, so you don’t need to uploa
 
 After the configuration is complete, the pipeline will automatically source data from the PostgreSQL tables and sink it into the specified S3 bucket in the chosen format.
 
-![alt text](images/01.png)
-![alt text](images/002.png)
+![alt text](Images/01.png)
+![alt text](Images/002.png)
 
 ## Commands
 
